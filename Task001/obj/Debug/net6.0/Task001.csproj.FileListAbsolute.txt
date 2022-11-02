@@ -1,0 +1,15 @@
+/Users/yuliyayahshigulova/Desktop/HomeWorks_C#/HomeWorks/Task001/bin/Debug/net6.0/Task001
+/Users/yuliyayahshigulova/Desktop/HomeWorks_C#/HomeWorks/Task001/bin/Debug/net6.0/Task001.deps.json
+/Users/yuliyayahshigulova/Desktop/HomeWorks_C#/HomeWorks/Task001/bin/Debug/net6.0/Task001.runtimeconfig.json
+/Users/yuliyayahshigulova/Desktop/HomeWorks_C#/HomeWorks/Task001/bin/Debug/net6.0/Task001.dll
+/Users/yuliyayahshigulova/Desktop/HomeWorks_C#/HomeWorks/Task001/bin/Debug/net6.0/Task001.pdb
+/Users/yuliyayahshigulova/Desktop/HomeWorks_C#/HomeWorks/Task001/obj/Debug/net6.0/Task001.csproj.AssemblyReference.cache
+/Users/yuliyayahshigulova/Desktop/HomeWorks_C#/HomeWorks/Task001/obj/Debug/net6.0/Task001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliyayahshigulova/Desktop/HomeWorks_C#/HomeWorks/Task001/obj/Debug/net6.0/Task001.AssemblyInfoInputs.cache
+/Users/yuliyayahshigulova/Desktop/HomeWorks_C#/HomeWorks/Task001/obj/Debug/net6.0/Task001.AssemblyInfo.cs
+/Users/yuliyayahshigulova/Desktop/HomeWorks_C#/HomeWorks/Task001/obj/Debug/net6.0/Task001.csproj.CoreCompileInputs.cache
+/Users/yuliyayahshigulova/Desktop/HomeWorks_C#/HomeWorks/Task001/obj/Debug/net6.0/Task001.dll
+/Users/yuliyayahshigulova/Desktop/HomeWorks_C#/HomeWorks/Task001/obj/Debug/net6.0/refint/Task001.dll
+/Users/yuliyayahshigulova/Desktop/HomeWorks_C#/HomeWorks/Task001/obj/Debug/net6.0/Task001.pdb
+/Users/yuliyayahshigulova/Desktop/HomeWorks_C#/HomeWorks/Task001/obj/Debug/net6.0/Task001.genruntimeconfig.cache
+/Users/yuliyayahshigulova/Desktop/HomeWorks_C#/HomeWorks/Task001/obj/Debug/net6.0/ref/Task001.dll
